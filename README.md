@@ -1,3 +1,5 @@
+<h2>Basic CRUD, emails, search, db queries, login, registration and etc.</h2>
+
 DIRECTORY STRUCTURE
 -------------------
 
